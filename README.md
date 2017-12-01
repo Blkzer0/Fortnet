@@ -26,6 +26,5 @@ City to City Inter-Mesh connection
 
 
 ### Current Projects avaliable on git:
-https://github.com/ipfs/ipfs
-https://git.jollo.org/gternet
-
++ https://github.com/ipfs/ipfs
++ https://git.jollo.org/gternet
